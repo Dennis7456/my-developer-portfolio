@@ -28,8 +28,6 @@
     }
 </script>
 <script>
-import ProjectCard from "$lib/components/project-card.svelte";
-
     export let projects
 </script>
 <h1>My Recent Projects:</h1>
